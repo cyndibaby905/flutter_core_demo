@@ -1,2 +1,1 @@
-# flutter_core_demo
- 
+本仓库包含了[Flutter核心技术与实战](https://time.geekbang.org/column/intro/200)的全部代码示例

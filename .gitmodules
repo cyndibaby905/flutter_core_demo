@@ -1,0 +1,33 @@
+[submodule "08_Dart_Sample"]
+	path = 08_Dart_Sample
+	url = https://github.com/cyndibaby905/08_Dart_Sample
+[submodule "11_Flutter_lifecycle"]
+	path = 11_Flutter_lifecycle
+	url = https://github.com/cyndibaby905/11_Flutter_lifecycle
+[submodule "13_listview_demo"]
+	path = 13_listview_demo
+	url = https://github.com/cyndibaby905/13_listview_demo
+[submodule "15_custom_ui_demo"]
+	path = 15_custom_ui_demo
+	url = https://github.com/cyndibaby905/15_custom_ui_demo
+[submodule "19_gesture_demo"]
+	path = 19_gesture_demo
+	url = https://github.com/cyndibaby905/19_gesture_demo
+[submodule "20_data_transfer"]
+	path = 20_data_transfer
+	url = https://github.com/cyndibaby905/20_data_transfer
+[submodule "21_router_demo"]
+	path = 21_router_demo
+	url = https://github.com/cyndibaby905/21_router_demo
+[submodule "22_app_animation"]
+	path = 22_app_animation
+	url = https://github.com/cyndibaby905/22_app_animation
+[submodule "31_flutter_push_plugin"]
+	path = 31_flutter_push_plugin
+	url = https://github.com/cyndibaby905/31_flutter_push_plugin
+[submodule "31_flutter_push_demo"]
+	path = 31_flutter_push_demo
+	url = https://github.com/cyndibaby905/31_flutter_push_demo
+[submodule "32_i18n_demo"]
+	path = 32_i18n_demo
+	url = https://github.com/cyndibaby905/32_i18n_demo

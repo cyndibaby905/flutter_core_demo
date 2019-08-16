@@ -31,3 +31,21 @@
 [submodule "32_i18n_demo"]
 	path = 32_i18n_demo
 	url = https://github.com/cyndibaby905/32_i18n_demo
+[submodule "29_ios_hybrid_demo"]
+	path = 29_ios_hybrid_demo
+	url = https://github.com/cyndibaby905/29_ios_hybrid_demo
+[submodule "29_android_hybrid_demo"]
+	path = 29_android_hybrid_demo
+	url = https://github.com/cyndibaby905/29_android_hybrid_demo
+[submodule "29_flutter_module_page"]
+	path = 29_flutter_module_page
+	url = https://github.com/cyndibaby905/29_flutter_module_page
+[submodule "27_native_view"]
+	path = 27_native_view
+	url = https://github.com/cyndibaby905/27_native_view
+[submodule "26_native_method"]
+	path = 26_native_method
+	url = https://github.com/cyndibaby905/26_native_method
+[submodule "24_network_demo"]
+	path = 24_network_demo
+	url = https://github.com/cyndibaby905/24_network_demo

@@ -49,3 +49,9 @@
 [submodule "24_network_demo"]
 	path = 24_network_demo
 	url = https://github.com/cyndibaby905/24_network_demo
+[submodule "23_dart_async"]
+	path = 23_dart_async
+	url = https://github.com/cyndibaby905/23_dart_async
+[submodule "25_data_persistence"]
+	path = 25_data_persistence
+	url = https://github.com/cyndibaby905/25_data_persistence

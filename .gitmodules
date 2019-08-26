@@ -55,3 +55,12 @@
 [submodule "25_data_persistence"]
 	path = 25_data_persistence
 	url = https://github.com/cyndibaby905/25_data_persistence
+[submodule "28_module_page"]
+	path = 28_module_page
+	url = https://github.com/cyndibaby905/28_module_page
+[submodule "28_AndroidDemo"]
+	path = 28_AndroidDemo
+	url = https://github.com/cyndibaby905/28_AndroidDemo
+[submodule "28_iOSDemo"]
+	path = 28_iOSDemo
+	url = https://github.com/cyndibaby905/28_iOSDemo

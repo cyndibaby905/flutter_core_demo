@@ -64,3 +64,6 @@
 [submodule "28_iOSDemo"]
 	path = 28_iOSDemo
 	url = https://github.com/cyndibaby905/28_iOSDemo
+[submodule "30_provider_demo"]
+	path = 30_provider_demo
+	url = https://github.com/cyndibaby905/30_provider_demo

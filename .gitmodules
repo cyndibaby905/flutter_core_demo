@@ -67,3 +67,6 @@
 [submodule "30_provider_demo"]
 	path = 30_provider_demo
 	url = https://github.com/cyndibaby905/30_provider_demo
+[submodule "33_multi_screen_demo"]
+	path = 33_multi_screen_demo
+	url = https://github.com/cyndibaby905/33_multi_screen_demo

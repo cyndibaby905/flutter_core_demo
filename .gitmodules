@@ -73,3 +73,9 @@
 [submodule "34_multi_env"]
 	path = 34_multi_env
 	url = https://github.com/cyndibaby905/34_multi_env
+[submodule "39_flutter_crash_plugin"]
+	path = 39_flutter_crash_plugin
+	url = https://github.com/cyndibaby905/39_flutter_crash_plugin
+[submodule "39_crashy_demo"]
+	path = 39_crashy_demo
+	url = https://github.com/cyndibaby905/39_crashy_demo

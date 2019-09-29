@@ -79,3 +79,24 @@
 [submodule "39_crashy_demo"]
 	path = 39_crashy_demo
 	url = https://github.com/cyndibaby905/39_crashy_demo
+[submodule "38_test_app"]
+	path = 38_test_app
+	url = https://github.com/cyndibaby905/38_test_app.git
+[submodule "40_peformance_demo"]
+	path = 40_peformance_demo
+	url = https://github.com/cyndibaby905/40_peformance_demo.git
+[submodule "44_flutter_reflect_plugin"]
+	path = 44_flutter_reflect_plugin
+	url = https://github.com/cyndibaby905/44_flutter_reflect_plugin.git
+[submodule "44_flutter_module_demo"]
+	path = 44_flutter_module_demo
+	url = https://github.com/cyndibaby905/44_flutter_module_demo.git
+[submodule "44_flutter_plugin_network"]
+	path = 44_flutter_plugin_network
+	url = https://github.com/cyndibaby905/44_flutter_plugin_network.git
+[submodule "44_AndroidDemo"]
+	path = 44_AndroidDemo
+	url = https://github.com/cyndibaby905/44_AndroidDemo.git
+[submodule "44_iOSDemo"]
+	path = 44_iOSDemo
+	url = https://github.com/cyndibaby905/44_iOSDemo.git
